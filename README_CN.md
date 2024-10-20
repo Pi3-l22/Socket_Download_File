@@ -4,7 +4,7 @@
 
 本项目使用Python实现了不同网络架构下的文件下载服务协议。它包括使用单线程、多线程、select和asyncio的服务器实现,以及相应的客户端实现。
 
-项目的详细介绍见我的博客文章：[Pi3'Notes](https://blog.pi3.fun/post/2023/12/%E4%B8%8D%E5%90%8C%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84%E4%B8%8B%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE%E8%AE%BE%E8%AE%A1/)
+项目的详细介绍见我的博客文章：[Pi3's Notes](https://blog.pi3.fun/post/2023/12/%E4%B8%8D%E5%90%8C%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84%E4%B8%8B%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE%E8%AE%BE%E8%AE%A1/)
 
 ## 特性
 
